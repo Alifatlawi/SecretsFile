@@ -28,7 +28,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 **6. Contact Us:**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at alawi_amer@yahoo.co.uk 
-
----
-
-Make sure to insert the correct date and any contact information where indicated. Adjust any sections as needed based on your app's actual practices. And again, please consult with legal counsel to ensure that your privacy policy complies with all relevant laws and regulations.
