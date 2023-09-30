@@ -1,30 +1,37 @@
-# SecretsFile
-**Privacy Policy for SecretsFile App**
+# Atilim
+
+**Privacy Policy for Atilim Schedule App**
 
 **Last Updated: [2023]**
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you use the SecretsFile App (the "App").
+This Privacy Policy describes how your personal information is collected, used, and shared when you use or download [App Name] (the "App"), developed by Ali Alfatlawi (the "Developer").
 
-**1. Information We Collect:**
+**1. Information Collection and Use**
 
-Currently, we do not collect any personal information from users of our App.
+**1.1 Personal Information**
 
-**2. How We Use Your Information:**
+We may collect personal information such as your name, email address, and other relevant information when you use our app. This information is used to provide and improve the service, and to identify and communicate with you.
 
-As we do not collect personal information, we do not use or share your information with anyone.
+**1.2 Usage Data**
 
-**3. Your Choices:**
+We may also collect information regarding the usage of our app including, but not limited to, the pages of our app that you visit, the time and date of your visit, and other diagnostic data.
 
-Since our App does not collect data, you don't need to worry about accessing, updating, or deleting your data.
+**2. Cookies and Similar Technologies**
 
-**4. Security:**
+We may use cookies and similar tracking technologies to track the activity on our app and hold certain information.
 
-The security of your passwords stored within the app is of utmost importance to us. While we strive to use commercially acceptable means to protect your passwords, we cannot guarantee its absolute security.
+**3. Data Sharing**
 
-**5. Changes to This Privacy Policy:**
+We do not share or sell your data with third parties for marketing purposes without your consent.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+**4. Security**
 
-**6. Contact Us:**
+We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at alawi_amer@yahoo.co.uk 
+5. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+**6. Contact Us**
+
+Should you have any inquiries or recommendations regarding our Privacy Policy, feel free to reach out to us at alawi_amer@yahoo.co.uk
