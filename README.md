@@ -1,6 +1,6 @@
 # Atilim
 
-**Privacy Policy for Atilim Schedule App**
+**Privacy Policy for MBAT4Seniors App**
 
 **Last Updated: [2023]**
 
