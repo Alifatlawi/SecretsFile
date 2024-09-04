@@ -1,10 +1,9 @@
-# Atilim
 
-**Privacy Policy for MBAT4Seniors App**
+**Privacy Policy for SosoSketch App**
 
-**Last Updated: [2023]**
+**Last Updated: [2024]**
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you use or download [App Name] (the "App"), developed by Ali Alfatlawi (the "Developer").
+This Privacy Policy describes how your personal information is collected, used, and shared when you use or download SosoSketch (the "App"), developed by Ali Alfatlawi (the "Developer").
 
 **1. Information Collection and Use**
 
